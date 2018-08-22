@@ -168,7 +168,10 @@ h6, .h6 {
   color: #00598f;
 }
 
-.modal {
+/* .modal {
   display: block;
   left: 9999px;
+} */
+.modal {
+  display:none;
 }
